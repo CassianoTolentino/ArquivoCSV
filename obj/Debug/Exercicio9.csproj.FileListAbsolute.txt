@@ -1,0 +1,6 @@
+C:\Projetos\C_Sharp_Extras\Exercicio9\bin\Debug\Exercicio9.exe.config
+C:\Projetos\C_Sharp_Extras\Exercicio9\bin\Debug\Exercicio9.exe
+C:\Projetos\C_Sharp_Extras\Exercicio9\bin\Debug\Exercicio9.pdb
+C:\Projetos\C_Sharp_Extras\Exercicio9\obj\Debug\Exercicio9.csproj.CoreCompileInputs.cache
+C:\Projetos\C_Sharp_Extras\Exercicio9\obj\Debug\Exercicio9.exe
+C:\Projetos\C_Sharp_Extras\Exercicio9\obj\Debug\Exercicio9.pdb
